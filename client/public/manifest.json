@@ -6,6 +6,16 @@
       "src": "/images/logo.png",
       "type": "image/png",
       "size": "1024x1024"
+    },
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "size": "144x144"
+    },
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "size": "512x512"
     }
   ],
   "start_url": ".",
